@@ -2,6 +2,7 @@
 Thailand Cansat-Rocket competition 2020 - Mavician Team
 
 <img src="images/cansat.png"/>
+<img src="presentation.jpg"/>
 
 ## Schematic
 <img src="images/schematic.png" width="500"/>
